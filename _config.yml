@@ -1,2 +1,17 @@
-name: From Edo River Bridge
+# Site settings
+title: From Edo River Bridge
+email: your-email@domain.com
 description: 江戸川橋から愛をこめて
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: Your name
+
+gems: [jekyll-paginate]

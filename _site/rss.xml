@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>江戸川橋から愛をこめて</link>
+    <atom:link rel="self" type="application/rss+xml" href="/rss.xml" />
+    <description>江戸川橋から愛をこめて</description>
+    <pubDate>Mon, 07 Mar 2016 22:49:17 +0900</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 22:49:17 +0900</lastBuildDate>
+    
+    <item>
+      <title>Test Prose</title>
+      <link>/2016/03/07/test-prose.html</link>
+      <guid isPermaLink="false">tag:vim-jp.org,2016/00/07:/2016/03/07/test-prose.html,rev:1</guid>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 +0900</pubDate>
+      <author>vim-jp</author>
+      <description>&lt;h2 id=&quot;prose-test&quot;&gt;prose test&lt;/h2&gt;
+&lt;p&gt;満来軒おいしい&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edo River Bridge</title>
+      <link>/2016/02/17/wassap-in-ERB.html</link>
+      <guid isPermaLink="false">tag:vim-jp.org,2016/42/17:/2016/02/17/wassap-in-ERB.html,rev:1</guid>
+      <pubDate>Wed, 17 Feb 2016 06:42:47 +0900</pubDate>
+      <author>vim-jp</author>
+      <description>&lt;p&gt;ハロハロー
+どうもこんにちは。
+今日から江戸川橋の日常をお届けしまーす&lt;/p&gt;
+
+</description>
+    </item>
+    
+  </channel> 
+</rss>
