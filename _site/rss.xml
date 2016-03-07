@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>From Edo River Bridge</title>
-    <link></link>
-    <atom:link rel="self" type="application/rss+xml" href="" />
-    <description></description>
-    <pubDate>Mon, 07 Mar 2016 22:22:19 +0900</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2016 22:22:19 +0900</lastBuildDate>
+    <title></title>
+    <link>江戸川橋から愛をこめて</link>
+    <atom:link rel="self" type="application/rss+xml" href="/rss.xml" />
+    <description>江戸川橋から愛をこめて</description>
+    <pubDate>Mon, 07 Mar 2016 22:52:57 +0900</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 22:52:57 +0900</lastBuildDate>
     
     <item>
-      <title>ラーメン満来</title>
-      <link>/2016/03/07/manrai-at-nishi-shinjuku.html</link>
-      <guid isPermaLink="false">tag:vim-jp.org,2016/00/07:/2016/03/07/manrai-at-nishi-shinjuku.html,rev:1</guid>
-      <pubDate>Mon, 07 Mar 2016 00:00:00 +0900</pubDate>
-      <author>vim-jp</author>
-      <description>やあ&#xA;&#xA;まずは自己紹介させて欲しい。&#xA;江戸川橋に住んでいることはタイトルから想像がつきそうだけど、&#xA;実は笹塚在住。江戸川橋はオフィスがあるだけだ。&#xA;&#xA;江戸川橋グルメを紹介していこうと思ってたが、江戸川橋に紹介できるようなパンチの効いた店はそうそうなくて、&#xA;どうしようか考えているうちに、ここまで公開が遅れた。&#xA;&#xA;今日紹介するのは新宿の「満来」（まんらい）。&#xA;西口から地上に上がって徒歩５分程度のところにあるラーメン屋。&#xA;詳しいことは食べログを参照して欲しい。（http://tabelog.com/tokyo/A1304/A130401/13000808/）&#xA;&#xA;食べログ見れば何でもわかると思ってるだろ？&#xA;違う。そうじゃない。伝えたいのは空気感よ。&#xA;&#xA;まず立地。かなり&#xA;&#xA;店に入る。６，７人くらい並んでたな。&#xA;本来なら並んでる時点で次の場所に行くんだけど、今日は違います。&#xA;こっちはブログを書きたくてわざわざ後輩と２人だけで「ラーメン部やろうぜ！」&#xA;なんて言ったもんだからまじなわけ。引けませんよ。&#xA;&#xA;まあいい。で、中に入ってすぐ食券機があるのでメニューを選ぶ。&#xA;初心者はラーメンを食べとけば間違いないと食べログに書いてあったので、&#xA;迷わずラーメン。他にはつけ麺みたいなのがあったかな。初心者だからどうでもいいんだけど。&#xA;店員さんに食券を渡すと、壁際の並ぶようの椅子に座って待つように指示され、それに従う。&#xA;非常に丁寧な接客でした。&#xA;他の待ってるやつらはみんなスマホいじってたけど、俺は待ってる間はどんな味か妄想を膨らませるタイプ。&#xA;&#xA;回転は良かったね。5分くらいで席に案内された。&#xA;厨房の中には２人の漢。暑そうに麺を必死で切ってた。&#xA;ちなみに１人は肥満気味だった。あれだけ暑そうなのにすごいなって思った。&#xA;&#xA;ラーメンが配られる。見た目がまじで良かった。&#xA;&#xA;味ですか？&#xA;食べログでも見てください。（http://tabelog.com/tokyo/A1304/A130401/13000808/）&#xA;</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Test Prose</title>
       <link>/2016/03/07/test-prose.html</link>
       <guid isPermaLink="false">tag:vim-jp.org,2016/00/07:/2016/03/07/test-prose.html,rev:1</guid>
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0900</pubDate>
       <author>vim-jp</author>
-      <description>&#xA;&#xA;## prose test&#xA;満来軒おいしい&#xA;&#xA;Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.&#xA;</description>
+      <description>&lt;h2 id=&quot;prose-test&quot;&gt;prose test&lt;/h2&gt;
+&lt;p&gt;満来軒おいしい&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Edo River Bridge</title>
-      <link>/2016/02/16/wassap-in-ERB.html</link>
-      <guid isPermaLink="false">tag:vim-jp.org,2016/00/16:/2016/02/16/wassap-in-ERB.html,rev:1</guid>
-      <pubDate>Tue, 16 Feb 2016 00:00:00 +0900</pubDate>
+      <link>/2016/02/17/wassap-in-ERB.html</link>
+      <guid isPermaLink="false">tag:vim-jp.org,2016/42/17:/2016/02/17/wassap-in-ERB.html,rev:1</guid>
+      <pubDate>Wed, 17 Feb 2016 06:42:47 +0900</pubDate>
       <author>vim-jp</author>
-      <description>&#xA;ハロハロー&#xA;どうもこんにちは。&#xA;今日から江戸川橋の日常をお届けしまーす&#xA;&#xA;</description>
+      <description>&lt;p&gt;ハロハロー
+どうもこんにちは。
+今日から江戸川橋の日常をお届けしまーす&lt;/p&gt;
+
+</description>
     </item>
     
   </channel> 
